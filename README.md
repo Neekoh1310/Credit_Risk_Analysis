@@ -1,5 +1,18 @@
 # Credit_Risk_Analysis
 
+## Overview
+
+In this project, I was tasked to analyze credit risk using unbalanced methods. Since good loans easily outnumber risky loands, different techniques must be employed to train and evaluate models. I am going to employ Random Oversampling, SMOTE Oversampling, Undersampling, Combination Sampling, Balanced Random Forest Classifier Sampling, and Easy Ensemble Classifier Sampling to see what method will be most effective in analyzing credit risks.
+
+## Resources
+- Python, Jupyter Notebook, Pandas, Imbalanced Learn (imblearn)
+
+## Results
+
+<p>Random Oversampling</p>
+<p>- Balanced Accuracy: 0.7905209680473468
+- Precision: 0.99
+- Recall: 0.86</p>
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/102476861/179847554-740582e2-4ffa-448a-9b84-97e907bcbc21.png)
 
 ![SMOTE Oversampling](https://user-images.githubusercontent.com/102476861/179847586-a3c13c5d-baae-43a4-abe4-dffdbe7e228b.png)
