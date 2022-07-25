@@ -46,4 +46,7 @@ ____________________________
 ____________________________
 
 ## Summary
+Based on the balanced accuracy, precision, and recall scores on the methods that were run, the Easy Ensemble AdaBoost Classifier is the top recommendation. The other five methods produced an accuracy of <80%, with each only having a small margin of differences when it comes to precision and recalls, while Easy Ensemble produced an accuracy close to 93%. If 93% accuracy is acceptable within the business parameters of a Credit Risk company, then Easy Ensemble AdaBoost Classifier is highly recommended.
+
+
 
