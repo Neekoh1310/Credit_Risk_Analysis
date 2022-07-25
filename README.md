@@ -13,11 +13,16 @@ In this project, I was tasked to analyze credit risk using unbalanced methods. S
 - Balanced Accuracy: 0.7905209680473468 | Precision: 0.99 | Recall: 0.86
 
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/102476861/179847554-740582e2-4ffa-448a-9b84-97e907bcbc21.png)
+____________________________
 
 <p><b>SMOTE Oversampling</b></p>
 - Balanced Accuracy: 0.7905209680473468 | Precision: 0.99 | Recall: 0.88
 
 ![SMOTE Oversampling](https://user-images.githubusercontent.com/102476861/179847586-a3c13c5d-baae-43a4-abe4-dffdbe7e228b.png)
+____________________________
+
+<p><b>Undersampling</b></p>
+- Balanced Accuracy: 0.7905209680473468 | Precision: 0.99 | Recall: 0.88
 
 ![Undersampling](https://user-images.githubusercontent.com/102476861/179847614-0b998a6a-6e49-4490-a7dd-3babb736d58c.png)
 
