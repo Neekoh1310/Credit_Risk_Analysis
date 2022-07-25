@@ -9,7 +9,7 @@ In this project, I was tasked to analyze credit risk using unbalanced methods. S
 
 ## Results
 
-<p>Random Oversampling</p>
+<p><b>Random Oversampling</b></p>
 - Balanced Accuracy: 0.7905209680473468 | Precision: 0.99 | Recall: 0.86
 
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/102476861/179847554-740582e2-4ffa-448a-9b84-97e907bcbc21.png)
